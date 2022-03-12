@@ -21,7 +21,6 @@ Also, you must provide a text file (even if blank) of authorized
 DHCP servers in CSV format.  A sample file named 'Auth.txt' is 
 provided as an example. 
 
-![alt text](Example_screenshot "Frogue sample screenshot")
 
 Requirements:
 -------------
